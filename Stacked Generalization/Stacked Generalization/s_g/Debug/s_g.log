@@ -1,0 +1,12 @@
+﻿  evaluate.c
+  knn_model.c
+  k_fold.c
+  main.c
+  normalize.c
+  perceptron_model.c
+  read_csv.c
+  score.c
+  stacking_model.c
+  test_prediction.c
+  正在生成代码...
+  s_g.vcxproj -> C:\Users\Jx_G\Desktop\C_algorithm\s_g\Debug\s_g.exe
