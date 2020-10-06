@@ -1,0 +1,2 @@
+C:\Users\MSI-PC\Desktop\LSTM\Debug\LSTM.exe
+C:\Users\MSI-PC\Desktop\LSTM\Debug\LSTM.pdb
