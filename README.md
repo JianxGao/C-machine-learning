@@ -6,7 +6,7 @@
 
 **项目成员：小高、小许、小闫、小叶、小E**
 
-## $C\ \    machine\ \   learning\ \    algorithm$
+## C machine learning algorithm
 
 **目录：**
 
