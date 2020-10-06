@@ -40,3 +40,5 @@
 Github： https://github.com/Gao-Jianxiong-SDUWH/C-machine-learning
 
 知乎专栏：https://www.zhihu.com/column/c_1296572278004940800
+
+B站视频讲解：https://www.bilibili.com/video/BV1st4y1v72S/
