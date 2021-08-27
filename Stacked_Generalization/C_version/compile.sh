@@ -1,0 +1,1 @@
+gcc main.c normalize.c score.c test_prediction.c stacking_model.c k_fold.c knn_model.c evaluate.c read_csv.c perceptron_model.c -o run -lm && ./run
